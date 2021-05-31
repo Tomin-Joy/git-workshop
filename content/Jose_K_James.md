@@ -1,5 +1,5 @@
 ---
-name: "Jose  James"
+name: "Jose k James"
 avatar: "https://github.com/cyberianzed.png"
 desc: "Smashing keybard to study, I just hear sounds"
 college: "St Josephs College Of Engineering and Technology"
